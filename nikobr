@@ -1,0 +1,24 @@
+{
+  "name": "NIKOBR",
+  "symbol": "NIKOBR",
+  "description": "Este é o NOVO Meme Nikolas AQUI! É hora de celebrar tudo o que defendemos: GANHAR!.",
+  "image": "https://pbs.twimg.com/profile_images/1881480270903148544/0BExb4WR_400x400.jpg",
+  "attributes": [
+    {
+      "trait_type": "Categoria",
+      "value": "Utilidade"
+    },
+    {
+      "trait_type": "Criador",
+      "value": "Seu Nome"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://pbs.twimg.com/profile_images/1881480270903148544/0BExb4WR_400x400.jpg",
+        "type": "image/jpg"
+      }
+    ]
+  }
+}
